@@ -1,4 +1,4 @@
-# log-archive-tool
+# Log Archival Tool (Bash)
 A simple script that take a directory as argument and creates a archive of it.
 
 ## Usage
