@@ -1,4 +1,4 @@
-# Roadmaps Project log-archive-tool
+# log-archive-tool
 A simple script that take a directory as argument and creates a archive of it.
 
 ## Usage
